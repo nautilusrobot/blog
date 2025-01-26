@@ -5,7 +5,7 @@ subtitle: Awe Awe.. It looks good.
 author: 
 categories: 
 banner:
-  video: https://www.youtube.com/watch?v=q4WKXA-_460
+  video: https://youtu.be/q4WKXA-_460?si=5vnFxXrXW2qaVBel
   loop: true
   volume: 0.8
   start_at: 8.5
