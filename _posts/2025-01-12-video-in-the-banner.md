@@ -5,7 +5,7 @@ subtitle: Awe Awe.. It looks good.
 author: 
 categories: 
 banner:
-  video: https://youtu.be/q4WKXA-_460?si=5vnFxXrXW2qaVBel
+  video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
