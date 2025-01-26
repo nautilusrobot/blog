@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Testing video in the backgourd.. 
-subtitle: Yes, Captin. It looks good.
+title: Testing video feature
+subtitle: Awe Awe.. It looks good.
 author: 
 categories: 
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: https://www.youtube.com/watch?v=q4WKXA-_460
   loop: true
   volume: 0.8
   start_at: 8.5
@@ -16,14 +16,12 @@ banner:
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: jekyll theme yat
+tags: 
 top: 1
 sidebar: []
 ---
 
 I don't know what to say, the video looks `amazing`
-
-
 
 ## section 1
 
