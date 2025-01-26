@@ -2,8 +2,8 @@
 layout: post
 title: Testing video in the backgourd.. 
 subtitle: Yes, Captin. It looks good.
-author: Kevin
-categories: jekyll
+author: 
+categories: 
 banner:
   video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
@@ -27,14 +27,6 @@ I don't know what to say, the video looks `amazing`
 
 ## section 1
 
-code snippets sample for the fll code:
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+In the future we can place our mission video here, maybe.
 
 
