@@ -1,7 +1,7 @@
 ---
 layout: post
-title: An exhibit of Markdown
-subtitle: Each post also has a subtitle
+title: How to use Markdown
+subtitle: Save this code so that we can refernece it in the future post
 categories: markdown
 tags: [example, markdown]
 ---
