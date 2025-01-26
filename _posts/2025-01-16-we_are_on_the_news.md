@@ -16,4 +16,8 @@ Hey guys, it looks like we are on the school news. Let me share the photos i see
 
 ![example image](https://github.com/nautilusrobot/blog/blob/master/assets/images/post_img/20251_16_post_3.JPG "An exemplary image")
 
+![does this work1](../assets/images/post_img/20251_16_post_1.JPG)
 
+![does this work2](/assets/images/post_img/20251_16_post_1.JPG)
+
+![does this work3](https://github.com/nautilusrobot/blog/blob/master/assets/images/post_img/20251_16_post_1.JPG)
