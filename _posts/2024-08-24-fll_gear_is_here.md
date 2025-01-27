@@ -5,7 +5,7 @@ subtitle: Dream team is formed. Everything starts here!!
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20248_24_post_1.JPG
 categories: Info
 tags: [News]
-top: 2
+top:
 ---
 
 Look guys, the FLL gear is here. We have a look at work to do.
