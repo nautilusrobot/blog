@@ -2,6 +2,7 @@
 layout: post
 title: Happy weekend!
 subtitle:
+excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_18_post_1.JPG
 categories: Info
 tags: [video]
 ---
