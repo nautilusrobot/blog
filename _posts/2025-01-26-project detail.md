@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Clean up oil spill and save the marine ecosystem
-subtitle: 2024 FFL innovation Project
+subtitle: 2024 FFL Innovation Project
 categories: Project
 tags: [innovation]
 ---
@@ -12,7 +12,6 @@ Oil spill is a gobal issue. It can not only harm sea creatures and ecosystem. It
 It also brings huge impact to the people and economy  
 
 ### Current best pratice
-
 The common oil spill responses are:
 * Chemical dispersion
 * Buring 
@@ -28,6 +27,10 @@ The common oil spill responses are:
 
 ### The experiment and module
 
+### The advantages
+
+### Cost Analyis
+
 ### What does the Expert say
 * An item
 * Another item
@@ -39,8 +42,6 @@ The common oil spill responses are:
 ### What does the commnity say
 
 > Here is a quote. What this is should be self explanatory.
-
-## Cost Analyis
 
 ## Next Step
 
