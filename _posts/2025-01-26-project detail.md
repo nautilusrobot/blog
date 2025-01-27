@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  Clean up oil spill and save the marine ecosystem
-subtitle: 2024 FFL Innovation Project
+subtitle: 2024 FFL innovation Project
 categories: Project
-tags: [Innovacation]
+tags: [innovation]
 ---
 
 ## Why this is so important
