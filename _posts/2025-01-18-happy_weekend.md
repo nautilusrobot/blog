@@ -2,7 +2,7 @@
 layout: post
 title: Happy weekend!
 subtitle:
-categories: example
+categories: Info
 tags: [video]
 ---
 

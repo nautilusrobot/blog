@@ -3,8 +3,8 @@ layout: post
 title: Zoom call with expert!!
 subtitle: 
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202410_24_post_1.JPG
-categories: markdown
-tags: [News]
+categories: Project
+tags: [Innovacation]
 top: 
 ---
 

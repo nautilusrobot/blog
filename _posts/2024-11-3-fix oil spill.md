@@ -3,8 +3,8 @@ layout: post
 title:  Say no to oil spills
 subtitle: We need to solve all of them. Do we have enough time?
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202411_3_post_1.JPG
-categories: 
-tags: [News]
+categories: Project
+tags: [Innovacation]
 top: 
 ---
 

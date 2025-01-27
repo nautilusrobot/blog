@@ -3,7 +3,7 @@ layout: post
 title:  Round table meetings
 subtitle: We need to solve all of them. Do we have enough time?
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202410_20_post_1.JPG
-categories: 
+categories: Info
 tags: [News]
 top: 
 ---

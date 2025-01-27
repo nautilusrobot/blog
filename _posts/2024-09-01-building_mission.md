@@ -3,7 +3,7 @@ layout: post
 title: Building missions!
 subtitle: Now we have the gear, let's setup our home base!
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20249_1_post_1.JPG
-categories: 
+categories: Info
 tags: [News]
 top: 
 ---
