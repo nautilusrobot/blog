@@ -4,7 +4,7 @@ title:  Clean up oil spill and save the marine ecosystem
 subtitle: 2024 FFL Innovation Project
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_3.JPG
 categories: Project
-tags: [innovation]
+tags: [Innovation]
 ---
 
 ## Why it is so important

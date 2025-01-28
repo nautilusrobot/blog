@@ -4,7 +4,7 @@ title: We will go to the Dublin Library for our oil spill project
 subtitle: 
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202412_14_post_1.JPG
 categories: Project
-tags: [Innovation, CoreValue]
+tags: [Innovation]
 top: 
 ---
 
