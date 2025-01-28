@@ -9,4 +9,4 @@ tags: [Survey]
 
 ## Please help to provide your feedback
 
-Google Form Survey goes <a href="https://docs.google.com/forms/d/e/1FAIpQLScQjODMeY7p-KM2L4x7t6aeTrRiEYwAlA9THJV4EW0B3Arn0g/viewform"> here </a>
+Survey link is <a href="https://docs.google.com/forms/d/e/1FAIpQLScQjODMeY7p-KM2L4x7t6aeTrRiEYwAlA9THJV4EW0B3Arn0g/viewform"> here </a>
