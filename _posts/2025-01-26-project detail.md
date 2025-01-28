@@ -35,17 +35,17 @@ In addition to bring more awareness of the harms and impacts of oil spill, we al
 
 ## The Big Idea
 
-We all know sponge can absorbing, it can be reuse again and again. The idea is to find a material capable of absorbing oil exclusively from water to create a "Super Sponge".  
-If such matieral can be found and produced, it could be a game changer for mitigating Oil spills. These are qualities that we are looking for:
+We all know that sponges can absorb liquid and can be reused multiple times. The goal is to find a material capable of absorbing oil exclusively from water to create a "Super Sponge." 
+If such a material can be discovered and produced, it could be a game changer in mitigating oil spills. Here are the qualities we are looking for:
 
 * High oil absorption capacity
 * Reusability
 * Won't case any secondary pollution
 * Cost
 
-Next we need to design a continuious recycleing mecanisim to keep these sponges into action. One small sponge can only do so much, but with the right volumn it surely will make a big difference. 
-We want to make it as simple as possible to reduce the installion or maintaince cost. Ideally it should be automated so the design will be depolyed without much human intervaetion.
-This is also our team's strenths: develop and create a model which can fully unilize the oil absorbing matieral.
+Next, we need to design a continuous recycling mechanism to keep these sponges functioning effectively. While a single sponge has its limitations, an adequate volume can certainly make a significant impact. 
+Our goal is to make the system as simple as possible to minimize installation and maintenance costs. Ideally, it should be automated to enable deployment with minimal human intervention. 
+This aligns with our team's strengths: developing and creating a model that can fully utilize the oil-absorbing material.
 
 ### What do the Experts say
 
@@ -72,23 +72,22 @@ Based on the feedbacks from the experts, we finalized three different materials 
 
 > Souce: Chemical defination/diagram come from Wikipedia
 
-We place these oil absorbing & hydrophobic material with using engine oil, vegetable oil, crude oil, mixing with tap water. 
-All of the matierals did decent work absorbing only oil and the filted water visually looks clear. The engineered polyester stands out and quickly clean up the oil ( > 50 w/w) within 10 mins.
+We placed these oil-absorbing and hydrophobic materials in contact with engine oil, vegetable oil, crude oil, and tap water. All of the materials performed reasonably well at absorbing only oil, and the filtered water appeared visually clear. 
+The engineered polyester stood out, effectively cleaning up over 50% weight/weight of the oil within 10 minutes.
 
-After the experiment, our team start designing the recycle model which untiliz the engineered polyester belt.
-Our idea comes from the tank belt. The rouating mecanisim allows the materials to be installed indiviually. At the end of the device, it has a second roller to phyically push the oil out of the material. 
+After the experiment, our team began designing a recycling model that utilizes the engineered polyester belt. 
+Our concept is inspired by the tank belt. The rotating mechanism allows for the individual installation of materials. At the end of the device, there is a second roller that physically pushes the oil out of the material.
 
 ![model](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_3.JPG)
 
-This device can continously recycle oil. It can be installed on boat, floting platform or any other stable flat surfaces. The absorbent belt cost only $10/KG and it can be reused up to 10 times until it show decrease of performance.
-
+This device can continuously recycle oil and can be installed on boats, floating platforms, or any other stable, flat surfaces. The absorbent belt costs only $10 per kilogram and can be reused up to 10 times before its performance starts to decline.
 
 ### Let's talk about the advantages
 
-* The matieral is safe for env and human. it won't cause any secondary pollution.
-* The matieral can be recoveried and recycled easily. 
-* The oil can be recollected and hopfully reused.
-* The kit is suitable for any existing oil platform or clean up ship. 
+* The material is safe for both the environment and human health, ensuring that it does not lead to any secondary pollution.  
+* The material is easily recoverable and recyclable, promoting sustainability.  
+* The oil can be collected and ideally reused, maximizing resource efficiency.  
+* This kit is compatible with any existing oil platform or cleanup vessel, making it versatile for various applications.  
 
 ## Next Step
 
