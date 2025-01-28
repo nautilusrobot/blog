@@ -8,7 +8,7 @@ tags: [News]
 top: 
 ---
 
-Hey guys, it looks like we are on the school news. Let me share the photos i see from my moms' INS account.
+Hey guys, it looks like we are on the school news. Let me share the photos from the school email!!
 
 ![does this work4](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_16_post_1.JPG)
 ![does this work4](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_16_post_2.JPG)
