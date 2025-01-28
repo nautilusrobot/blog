@@ -14,7 +14,7 @@ Additionally, their habitats are destroyed, leading to recovery times that can l
 
 The Deepwater Horizon oil spill in 2010 is a notable example, with an estimated total discharge of 4.9 million barrels (approximately 210 million gallons). Even a decade later, the community and animal habitats affected by this disaster have yet to fully recover.
 
-### Current best pratice
+### Current industry pratice
 The common oil spill responses are:
 
 * Chemical dispersion and biological agents:  break down the oil into its chemical constituents
