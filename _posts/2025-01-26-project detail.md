@@ -32,7 +32,7 @@ In addition to bring more awareness of the harms and impacts of oil spill, we al
 * Design a new continuious oil recycling on the ocean
 * Collect and establish baseline data and access long-term impact
 
-## Our idea
+## The big idea
 
 We all know sponge can absorbing and once pushed, it can be reuse again and again. The idea is to find a material capable of absorbing oil exclusively from water to create a "Super Sponge".  
 If such matieral can be found and produced, it could be a game changer for mitigating Oil spills. These are what we are looking for:
@@ -48,22 +48,28 @@ This is also our team's strenths: develop and create a model which can fully uni
 
 ### What do the Experts say
 
-![experts](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_1.JPG)
+![experts](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_2.JPG)
 
 
 *Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
-### The experiment and module
+### Our experiment and module
 
-### The advantages
+
+
+
+
+
+### Let's talk about the advantages
 
 ### Cost Analyis
 
-### What does the commnity say
-
-> Here is a quote. What this is should be self explanatory.
 
 ## Next Step
+
+* Enhance roubustness and capacity of absorbent belt
+* Improve gyro motor to increase oil recycle efficiency.
+* Applyfor patent protection, contract manufacture and commercialize products.
 
 
 
