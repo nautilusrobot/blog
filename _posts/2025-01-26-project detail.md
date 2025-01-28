@@ -6,7 +6,7 @@ categories: Project
 tags: [innovation]
 ---
 
-## Why this is so important
+## Why it is so important
 
 Oil spills can occur during extraction, transportation, or when oil-based products spill directly into waterways or from inland storm drains. It is a global issue, with an estimated 1.3 million gallons of oil spilled every year. These spills cause direct harm to animals and ecosystems. Animals may suffer from both direct exposure to the oil and its secondary effects. 
 
@@ -21,7 +21,8 @@ The common oil spill responses are:
 * Buring: aims to remove oils floating on the water
 * Natural Dispersal. (oil eventually break down if left alone)
 
-*Souce: National Oceanic and Atmospheric Administration (.gov) *
+![common pratices](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_1.JPG)
+> Image Souce: National Oceanic and Atmospheric Administration (.gov) *
 
 ### Our Objectives
 
@@ -33,24 +34,30 @@ In addition to bring more awareness of the harms and impacts of oil spill, we al
 
 ## Our idea
 
+We all know sponge can absorbing and once pushed, it can be reuse again and again. The idea is to find a material capable of absorbing oil exclusively from water to create a "Super Sponge".  
+If such matieral can be found and produced, it could be a game changer for mitigating Oil spills. These are what we are looking for:
+
+* High oil absorption capacity
+* Reusability
+* Won't case any secondary pollution
+* Cost
+
+Next we need to design a continuious recycleing mecanisim to keep these sponges into action. One small sponge can only do so much, but with the right volumn it surely will make a big difference. 
+We want to make it as simple as possible to reduce the installion or maintaince cost. Ideally it should be automated so the design will be depolyed without much human intervaetion.
+This is also our team's strenths: develop and create a model which can fully unilize the oil absorbing matieral.
+
+### What do the Experts say
+
+![experts](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_1.JPG)
 
 
-
-
+*Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
 ### The experiment and module
 
 ### The advantages
 
 ### Cost Analyis
-
-### What does the Expert say
-* An item
-* Another item
-* Yet another item
-* And there's more...
-
-*Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
 ### What does the commnity say
 
