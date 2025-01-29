@@ -13,4 +13,4 @@ Survey link is <a href="https://docs.google.com/forms/d/e/1FAIpQLScQjODMeY7p-KM2
 
 or scan the QR code:
 
-https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_25_post_2.JPG
+![QR code](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/qr.JPG)
