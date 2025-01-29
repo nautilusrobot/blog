@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Zoom call with Dr Yeping Yuan
+title: Interview with Dr Yeping Yuan
 subtitle: 
 excerpt_image: 
 categories: Project
@@ -10,7 +10,7 @@ top:
 
 Interview with **Dr Yeping Yuan, Associate Professor of Ocean Science, Zhejiang University**
 
-Top Priorities: What are your most pressing concerns regarding the long-term effects of oil
+What are your most pressing concerns regarding the long-term effects of oil
 spills on coastal ecosystems?
 
 
@@ -19,7 +19,7 @@ spills on coastal ecosystems?
 > the ecosystem functions?
 
 
-Challenges in Research: What are the biggest challenges you face in studying and solving for
+What are the biggest challenges you face in studying and solving for
 the impacts of oil spills on marine life and habitats?
 
 > * Since some effect from oil spills on marine life or ecosystem would be chronic and not be
@@ -30,7 +30,7 @@ the impacts of oil spills on marine life and habitats?
 > their impact on marine life and habitats.
 
 
-Innovative Solutions: Are there any emerging technologies or research areas that you believe
+Are there any emerging technologies or research areas that you believe
 could significantly improve oil spill response and recovery efforts?
 
 > * The in-situ observation technology should be developed for monitoring the dispersal
@@ -40,7 +40,7 @@ could significantly improve oil spill response and recovery efforts?
 > figure out how physiological, genetic and evolutionary response of marine life to oil spill.
 
 
-Collaboration and Partnerships: How can our team "Nautilus" contribute to fostering greater
+How can our team "Nautilus" contribute to fostering greater
 collaboration between scientists, policymakers, and industry in addressing the challenges posed
 by oil spills? What specific roles or projects could we undertake to facilitate partnerships and
 knowledge sharing while being realistic?
@@ -50,7 +50,7 @@ knowledge sharing while being realistic?
 > policymakers for understanding what they need from scientists.
 
 
-Public Engagement: What strategies do you think are most effective for raising public
+What strategies do you think are most effective for raising public
 awareness about the dangers of oil spills and promoting sustainable practices? What specific
 roles or projects could we undertake to support such initiatives while being realistic?
 
@@ -61,7 +61,7 @@ roles or projects could we undertake to support such initiatives while being rea
 > our ocean.
 
 
-Solution: do you have any suggestions or ideas in mind as solutions to this problem?
+do you have any suggestions or ideas in mind as solutions to this problem?
 
 
 > * To solve the oil spills problem, I think the most important point is to understand the long-
