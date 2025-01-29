@@ -10,7 +10,7 @@ top:
 
 Interview with **Dr Jeff Terwin, Head of La Jolla Day School, Marine Biologist**
 
-* Top Priorities: What are your most pressing concerns regarding the long-term
+Top Priorities: What are your most pressing concerns regarding the long-term
 effects of oil spills on coastal ecosystems?
 
 ~~~
@@ -26,7 +26,7 @@ more severe impact on organisms that are higher on the food chain, such as
 humans.
 ~~~
 
-* Challenges in Research: What are the biggest challenges you face in studying
+Challenges in Research: What are the biggest challenges you face in studying
 and solving for the impacts of oil spills on marine life and habitats?
 
 ~~~
@@ -38,7 +38,7 @@ general study on baseline data. Another point is the cleaning process. Cleaning
 could actually do more damage than good.
 ~~~
 
-* Innovative Solutions: Are there any emerging technologies or research areas
+Innovative Solutions: Are there any emerging technologies or research areas
 that you believe could significantly improve oil spill response and recovery
 efforts?
 
@@ -54,7 +54,7 @@ bioremediation to clean up oil spills.
 ~~~
 
 
-* Collaboration and Partnerships: How can our team "Nautilus" contribute to
+Collaboration and Partnerships: How can our team "Nautilus" contribute to
 fostering greater collaboration between scientists, policymakers, and industry
 in addressing the challenges posed by oil spills? What specific roles or projects
 could we undertake to facilitate partnerships and knowledge sharing while
@@ -74,14 +74,14 @@ While you are not in college yet, consider how you may be able to work with the
 local Sea Grant people. (https://ohioseagrant.osu.edu/ )
 ~~~
 
-* Public Engagement: What strategies do you think are most effective for raising
+Public Engagement: What strategies do you think are most effective for raising
 public awareness about the dangers of oil spills and promoting sustainable
 practices? What specific roles or projects could we undertake to support such
 initiatives while being realistic?
 (skipped this question as it was answered in the last one)
 
 
-* Solution: do you have any suggestions or ideas in mind as solutions to this
+Solution: do you have any suggestions or ideas in mind as solutions to this
 problem?
 ~~~
 I think your project is in unique position here and would suggest to start
