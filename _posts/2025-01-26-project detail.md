@@ -87,7 +87,6 @@ We built the lego version of the model based on our design. We also confirm with
 
 ![Lego](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_7.JPG)
 
-![Lego](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_9.JPG)
 
 
 ### Let's talk about the advantages
