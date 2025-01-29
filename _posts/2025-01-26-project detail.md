@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Clean up oil spill and save the marine ecosystem
+title:  Clean up oil spill to save the marine ecosystem
 subtitle: 2024 FFL Innovation Project
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_3.JPG
 categories: Project
@@ -55,11 +55,9 @@ This aligns with our team's strengths: developing and creating a model that can 
 
 ### Our experiment and module
 
-Our team further research. We reached out to the experts.
-
 ![Polypropylene](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_8.JPG)
 
-Based on their feedbackss, we finalized three different materials for our own experiment. 
+We reached out to the experts. Based on their feedbackss, we finalized three different materials for our own experiment. 
 
 * Polypropylene: Polypropylene (PP), also known as polypropene, is a thermoplastic polymer used in a wide variety of applications. It is produced via chain-growth polymerization from the monomer propylene.
 
