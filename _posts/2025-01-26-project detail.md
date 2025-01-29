@@ -15,6 +15,10 @@ Additionally, their habitats are destroyed, leading to recovery times that can l
 
 The Deepwater Horizon oil spill in 2010 is a notable example, with an estimated total discharge of 4.9 million barrels (approximately 210 million gallons). Even a decade later, the community and animal habitats affected by this disaster have yet to fully recover.
 
+Our team conducted the research in the libarary and online. We also reach out to expert to understand the pressing need and impact of the oil spills.
+
+![common pratices](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_10.JPG)
+
 ### Common industry pratices
 The common oil spill responses are:
 
@@ -47,14 +51,15 @@ Next, we need to design a continuous recycling mechanism to keep these sponges f
 Our goal is to make the system as simple as possible to minimize installation and maintenance costs. Ideally, it should be automated to enable deployment with minimal human intervention. 
 This aligns with our team's strengths: developing and creating a model that can fully utilize the oil-absorbing material.
 
-We brought our idea to the area experts to collect their feedback.
-
-![experts](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_2.JPG)
 
 
 ### Our experiment and module
 
-Based on the feedbacks from the experts, we finalized three different materials for our own experiment. 
+Our team further research. We reached out to the experts.
+
+![Polypropylene](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_8.JPG)
+
+Based on their feedbackss, we finalized three different materials for our own experiment. 
 
 * Polypropylene: Polypropylene (PP), also known as polypropene, is a thermoplastic polymer used in a wide variety of applications. It is produced via chain-growth polymerization from the monomer propylene.
 
@@ -79,6 +84,13 @@ Our concept is inspired by the tank belt. The rotating mechanism allows for the 
 ![model](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_3.JPG)
 
 This device can continuously recycle oil and can be installed on boats, floating platforms, or any other stable, flat surfaces. The absorbent belt costs only $10 per kilogram and can be reused up to 10 times before its performance starts to decline.
+
+We built the lego version of the model based on our design. We also confirm with Dr. Dean Wang (Mechanical Engineering, OUS) to make sure this will works in real world.
+
+![Lego](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_7.JPG)
+
+![Lego](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_9.JPG)
+
 
 ### Let's talk about the advantages
 
