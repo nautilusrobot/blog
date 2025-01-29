@@ -47,12 +47,10 @@ Next, we need to design a continuous recycling mechanism to keep these sponges f
 Our goal is to make the system as simple as possible to minimize installation and maintenance costs. Ideally, it should be automated to enable deployment with minimal human intervention. 
 This aligns with our team's strengths: developing and creating a model that can fully utilize the oil-absorbing material.
 
-### What do the Experts say
+We brought our idea to the area experts to collect their feedback.
 
 ![experts](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_2.JPG)
 
-
-*Note: Feel free to play with this page. Unlike regular notes, this doesn't automatically save itself.*
 
 ### Our experiment and module
 
