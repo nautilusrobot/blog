@@ -8,9 +8,9 @@ tags: [News]
 top: 
 ---
 
-Coach Wei (my dad) has preapreed a lot of learning materials (how to code) for us. 
+Coach Wei has preapreed a lot of learning materials (how to code) for us. 
 
-I feel like most of us are more intertested to build all the missions. But hey, this is most important first step, right?
+Most of us are more intertested to build all the missions. But hey, this is most important first step, right?
 
 We also need to decide and finalize our team name and team logo quickly. I have already heard so many names. 
 
