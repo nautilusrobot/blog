@@ -5,11 +5,11 @@ subtitle: Awe Awe.. It looks good.
 author: 
 categories: 
 banner:
-  video: https://vjs.zencdn.net/v/oceans.mp4
+  video: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/videos/teamsong.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: 
   opacity: 0.618
   background: "#000"
   height: "100vh"
@@ -22,6 +22,6 @@ sidebar: []
 ---
 
 
-In the future we can place our mission video here, maybe.
+Playing team song in the backgroud.
 
 
