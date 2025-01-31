@@ -103,4 +103,7 @@ We built the lego version of the model based on our design. We also confirm with
 * Applyfor patent protection, contract manufacture and commercialize products.
 
 
+## Survey
+
+We are very interested to hear from you. Please considate to leave your feedback <a href="https://docs.google.com/forms/d/e/1FAIpQLScQjODMeY7p-KM2L4x7t6aeTrRiEYwAlA9THJV4EW0B3Arn0g/viewform"> here </a>
 
