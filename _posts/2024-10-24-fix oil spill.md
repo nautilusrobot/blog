@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  Say no to oil spills
-subtitle: We need to solve all of them. Do we have enough time?
+title:  Say "NO"" to oil spills
+subtitle: the topic is finalized!
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202411_3_post_1.JPG
 categories: Project
 tags: [Innovation]
 top: 
 ---
+
+We collected so many ideas for the innovation. Each of us present our ideas to the team, based on our research in the past 2 weeks.
 
 The Team has spoken. We are going to concur oil spill problem!
 
