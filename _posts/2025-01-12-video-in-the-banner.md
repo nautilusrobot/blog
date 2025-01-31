@@ -21,9 +21,6 @@ top:
 sidebar: []
 ---
 
-I don't know what to say, the video looks `amazing`
-
-## section 1
 
 In the future we can place our mission video here, maybe.
 
