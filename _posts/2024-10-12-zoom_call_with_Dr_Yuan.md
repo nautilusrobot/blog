@@ -8,7 +8,10 @@ tags: [Innovation]
 top: 
 ---
 
-Interview with **Dr Yeping Yuan, Associate Professor of Ocean Science, Zhejiang University**
+Our team interviewed with **Dr Yeping Yuan, Associate Professor of Ocean Science, Zhejiang University**
+
+Notes are capuretred by our team member Abert.
+
 
 What are your most pressing concerns regarding the long-term effects of oil
 spills on coastal ecosystems?
