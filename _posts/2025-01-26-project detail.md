@@ -83,7 +83,7 @@ Our concept is inspired by the tank belt. The rotating mechanism allows for the 
 
 This device can continuously recycle oil and can be installed on boats, floating platforms, or any other stable, flat surfaces. The absorbent belt costs only $10 per kilogram and can be reused up to 10 times before its performance starts to decline.
 
-We built the lego version of the model based on our design. We also confirm with Dr. Dean Wang (Mechanical Engineering, OUS) to make sure this will works in real world.
+We built the lego version of the model based on our design. We also confirm with Dr. Dean Wang (Mechanical Engineering, OSU) to make sure this will works in real world.
 
 ![Lego](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_26_post_7.JPG)
 
