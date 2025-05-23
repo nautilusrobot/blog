@@ -2,6 +2,7 @@
 layout: post
 title:  Missions! Mission!
 subtitle: We need to solve all of them. Do we have enough time?
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202410_13_post_1.JPG
 categories: Info
 tags: [News]

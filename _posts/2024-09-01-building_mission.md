@@ -2,6 +2,7 @@
 layout: post
 title: Building missions and learn how to code!
 subtitle: Now we have the gear, let's setup our home base!
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20249_1_post_1.JPG
 categories: Info
 tags: [News]

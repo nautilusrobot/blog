@@ -2,6 +2,7 @@
 layout: post
 title: We are on the school news
 subtitle: Let's spread the good news far and wide, LOL
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_16_post_3.JPG
 categories: Info
 tags: [News]

@@ -2,6 +2,7 @@
 layout: post
 title:  Say "NO" to oil spills
 subtitle: the topic is finalized!
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202411_3_post_1.JPG
 categories: Project
 tags: [Innovation]

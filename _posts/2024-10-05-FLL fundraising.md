@@ -2,6 +2,7 @@
 layout: post
 title:  FLL fund raising & movie day
 subtitle: 
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/202410_05_post_1.JPG
 categories: Info
 tags: [News]

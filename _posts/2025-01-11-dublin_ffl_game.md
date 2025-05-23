@@ -2,6 +2,7 @@
 layout: post
 title: The Game is ON!
 subtitle: Let's spread the good news far and wide, LOL
+author: Kevin Feng
 excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20251_11_post_6.JPG
 categories: Info
 tags: [News]
