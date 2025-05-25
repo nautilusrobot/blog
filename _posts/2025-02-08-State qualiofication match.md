@@ -3,7 +3,7 @@ layout: post
 title:  We are at State qualification match
 subtitle: 
 author: Kevin Feng
-excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post1.JPG
+excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post1.jpg
 categories: 
 tags: []
 ---
@@ -12,7 +12,7 @@ tags: []
 The day has finally come! This is the second round of the competition, and the winner will advance to compete at the state level in Ohio. 
 We’ve already achieved our initial goal as first-year participants, and we are so excited to meet so many other teams. It’s a bit intimidating since most of the other teams are made up of middle schoolers.
 
-
+![common pratices](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post1.jpg)
 ![common pratices](https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post2.jpg)
 
 
