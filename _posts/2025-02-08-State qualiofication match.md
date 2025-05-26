@@ -3,7 +3,7 @@ layout: post
 title:  We are at State qualification match
 subtitle: 
 author: Kevin Feng
-excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post1.jpg
+excerpt_image: https://raw.githubusercontent.com/nautilusrobot/blog/master/assets/images/post_img/20252_08_post4.jpg
 categories: 
 tags: []
 ---
